@@ -3,6 +3,7 @@
 1.Јас го добив кодот од 4та група
 
 2.Мојот нацртан Control Flow граф изгледа вака:
+
 ![alt text](https://github.com/dareeco/SI_lab2_186065/blob/master/Control%20Flow%20Diagram.png?raw=true)
 
 
